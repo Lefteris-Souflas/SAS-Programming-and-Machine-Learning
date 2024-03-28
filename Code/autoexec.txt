@@ -1,0 +1,2 @@
+%let path=/home/u62678062/sasuser.v94/SAS_Project;
+libname project '/home/u62678062/sasuser.v94/SAS_Project';

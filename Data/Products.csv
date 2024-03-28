@@ -1,0 +1,145 @@
+Product_ID,Product line,Product type,Product,SKU,Product_Origin,Product_Price
+1,Camping Equipment,Cooking Gear,TrailChef Water Bag,4055095887499070000,1,17.79
+2,Camping Equipment,Cooking Gear,TrailChef Canteen,4055095897377050000,2,24.92
+3,Camping Equipment,Cooking Gear,TrailChef Kitchen Kit,4056008039577040000,4,34.38
+4,Camping Equipment,Cooking Gear,TrailChef Cup,4056008079584050000,2,21.64
+5,Camping Equipment,Cooking Gear,TrailChef Cook Set,4056008079591060000,1,25.98
+6,Camping Equipment,Cooking Gear,TrailChef Deluxe Cook Set,4055095999441030000,2,32.49
+7,Camping Equipment,Cooking Gear,TrailChef Single Flame,4055095979496030000,4,28.54
+8,Camping Equipment,Cooking Gear,TrailChef Double Flame,4055095989526060000,3,28.93
+9,Camping Equipment,Cooking Gear,TrailChef Kettle,4055095990359060000,3,15.26
+10,Camping Equipment,Cooking Gear,TrailChef Utensils,4055095910397050000,3,32.24
+11,Camping Equipment,Tents,Star Lite,4055095910502060000,2,28.17
+12,Camping Equipment,Tents,Star Dome,4052805633062080000,5,36.98
+13,Camping Equipment,Tents,Star Gazer 2,4052805693123080000,5,50.05
+14,Camping Equipment,Tents,Star Gazer 3,4052805683161080000,4,48.44
+15,Camping Equipment,Tents,Star Gazer 6,4055095578490050000,5,32.01
+16,Camping Equipment,Tents,Star Peg,4055095528520080000,5,29.45
+17,Camping Equipment,Sleeping Bags,Hibernator Lite,4054202337561030000,5,27.18
+18,Camping Equipment,Sleeping Bags,Hibernator,4055095376104050000,4,31.23
+19,Camping Equipment,Sleeping Bags,Hibernator Extreme,4055095395658180000,3,19.18
+20,Camping Equipment,Sleeping Bags,Hibernator Self - Inflating Mat,4054202166218110000,4,28.13
+21,Camping Equipment,Sleeping Bags,Hibernator Pad,4054202347539030000,4,50.72
+22,Camping Equipment,Sleeping Bags,Hibernator Pillow,4055095517868010000,4,41.21
+23,Camping Equipment,Sleeping Bags,Hibernator Camp Cot,4055095551627020000,3,41.11
+24,Camping Equipment,Packs,Canyon Mule Climber Backpack,4055095531634030000,5,16.62
+25,Camping Equipment,Packs,Canyon Mule Weekender Backpack,4055095581641040000,3,18.92
+26,Camping Equipment,Packs,Canyon Mule Journey Backpack,4055095551658050000,4,18.18
+27,Camping Equipment,Packs,Canyon Mule Extreme Backpack,4055095561863020000,2,30.34
+28,Camping Equipment,Packs,Canyon Mule Cooler,4055095541870030000,4,36.55
+29,Camping Equipment,Packs,Canyon Mule Carryall,4055095541887040000,1,51.48
+30,Camping Equipment,Lanterns,Firefly Lite,4055095571894050000,4,13.8
+31,Camping Equipment,Lanterns,Firefly Mapreader,4055095390326060000,3,34.77
+32,Camping Equipment,Lanterns,Firefly 2,4055095218579070000,5,35.35
+33,Camping Equipment,Lanterns,Firefly 4,4055095238791070000,5,38.57
+34,Camping Equipment,Lanterns,Firefly Extreme,4055095268920040000,5,33.82
+35,Camping Equipment,Lanterns,Firefly Multi-light,4055095228937050000,2,20.68
+36,Camping Equipment,Lanterns,EverGlow Single,4053641734341100000,2,29.28
+37,Camping Equipment,Lanterns,EverGlow Double,4043179848058010000,5,11.68
+38,Camping Equipment,Lanterns,EverGlow Kerosene,4055095264213060000,2,41.26
+39,Camping Equipment,Lanterns,EverGlow Butane,4055095214862020000,3,37.52
+40,Camping Equipment,Lanterns,EverGlow Lamp,4055095245036070000,4,23.45
+41,Camping Equipment,Lanterns,Flicker Lantern,4055095225197050000,2,30.64
+42,Personal Accessories,Watches,Mountain Man Analog,4055095232905070000,2,21.94
+43,Personal Accessories,Watches,Mountain Man Digital,4055095253087070000,2,33.91
+44,Personal Accessories,Watches,Mountain Man Deluxe,4260209870930010000,2,32.55
+45,Personal Accessories,Watches,Mountain Man Combination,4055095494439130000,1,28.96
+46,Personal Accessories,Watches,Mountain Man Extreme,4260209860947010000,1,41.6
+47,Personal Accessories,Watches,Venue,4027535829815030000,1,35.5
+48,Personal Accessories,Watches,Infinity,4027535869815030000,1,32.74
+49,Personal Accessories,Watches,Lux,4027535859815030000,2,17.69
+50,Personal Accessories,Watches,Sam,4027535889815030000,4,37.05
+51,Personal Accessories,Watches,TX,4027535829815030000,5,32
+52,Personal Accessories,Watches,Legend,4027535819815030000,1,8.15
+53,Personal Accessories,Watches,Kodiak,4027535829815030000,1,25.29
+54,Personal Accessories,Watches,Zodiak,4027535889815030000,1,28.26
+55,Personal Accessories,Eyewear,Polar Sun,4027535819815030000,4,22.63
+56,Personal Accessories,Eyewear,Polar Ice,4027535839976040000,1,46.57
+57,Personal Accessories,Eyewear,Polar Sports,4027535899976040000,3,46.45
+58,Personal Accessories,Eyewear,Polar Wave,4027535829976040000,2,23.35
+59,Personal Accessories,Eyewear,Polar Extreme,4027535859976040000,1,41.1
+60,Personal Accessories,Eyewear,Bella,4027535819976040000,1,32.58
+61,Personal Accessories,Eyewear,Capri,4027535889976040000,4,19.48
+62,Personal Accessories,Eyewear,Cat Eye,4027535839976040000,3,46.69
+63,Personal Accessories,Eyewear,Dante,4027535829976040000,5,42.74
+64,Personal Accessories,Eyewear,Fairway,4027535899976040000,5,24.65
+65,Personal Accessories,Eyewear,Inferno,4027535870835040000,3,38.79
+66,Personal Accessories,Eyewear,Maximus,4027535810835040000,5,31.2
+67,Personal Accessories,Eyewear,Trendi,4027535810866070000,4,38.56
+68,Personal Accessories,Eyewear,Zone,4027535820866070000,1,26.46
+69,Personal Accessories,Eyewear,Hawk Eye,4055095510419040000,5,32.65
+70,Personal Accessories,Eyewear,Retro,4049466237018080000,5,27.66
+71,Personal Accessories,Knives,Single Edge,4049466253126080000,3,22.78
+72,Personal Accessories,Knives,Double Edge,4049466155551080000,3,44.12
+73,Personal Accessories,Knives,Edge Extreme,4053089341760070000,5,31.08
+74,Personal Accessories,Knives,Bear Edge,4055095417941070000,1,26.91
+75,Personal Accessories,Knives,Bear Survival Edge,4055095555701030000,2,38.28
+76,Personal Accessories,Knives,Max Gizmo,4049466842035030000,3,25.06
+77,Personal Accessories,Knives,Pocket Gizmo,4053641759781010000,1,22.65
+78,Personal Accessories,Binoculars,Seeker 35,4053641749736050000,4,43.29
+79,Personal Accessories,Binoculars,Seeker 50,4052906087069070000,2,16.94
+80,Personal Accessories,Binoculars,Seeker Extreme,4052906037069070000,2,40.17
+81,Personal Accessories,Binoculars,Seeker Mini,4052906097069070000,1,33.96
+82,Personal Accessories,Binoculars,Opera Vision,4052906077069070000,2,33.31
+83,Personal Accessories,Binoculars,Ranger Vision,4052906027069070000,3,42.3
+84,Personal Accessories,Navigation,Glacier Basic,4052906077069070000,2,34.3
+85,Personal Accessories,Navigation,Glacier Deluxe,4052072061238070000,4,35.67
+86,Personal Accessories,Navigation,Glacier GPS,4052072021238070000,5,26.05
+87,Personal Accessories,Navigation,Glacier GPS Extreme,4052072041238070000,3,29.68
+88,Personal Accessories,Navigation,Trail Master,4055095368286020000,5,40.53
+89,Personal Accessories,Navigation,Trail Scout,4055095378873030000,3,37.37
+90,Personal Accessories,Navigation,Trail Star,4054202157047070000,4,35.43
+91,Personal Accessories,Navigation,Astro Pilot,4030864741194030000,3,20.36
+92,Personal Accessories,Navigation,Sky Pilot,4053227165466070000,5,30.2
+93,Personal Accessories,Navigation,Auto Pilot,4055095516572070000,2,23.11
+94,Outdoor Protection,Insect Repellents,BugShield Natural,4055095446550050000,5,47.14
+95,Outdoor Protection,Insect Repellents,BugShield Spray,4055095476604040000,2,17.72
+96,Outdoor Protection,Insect Repellents,BugShield Lotion Lite,4055095486611050000,4,34.54
+97,Outdoor Protection,Insect Repellents,BugShield Lotion,4055382374854060000,5,15.72
+98,Outdoor Protection,Insect Repellents,BugShield Extreme,4055095539176080000,2,22.58
+99,Outdoor Protection,Sunscreen,Sun Blocker,4053641943393070000,1,33.31
+100,Outdoor Protection,Sunscreen,Sun Shelter Stick,4053641936578040000,4,14.89
+101,Outdoor Protection,Sunscreen,Sun Shelter 15,4053641996585050000,1,15.75
+102,Outdoor Protection,Sunscreen,Sun Shelter 30,4053641951517050000,2,32.14
+103,Outdoor Protection,Sunscreen,Sun Shield,8718622677429050000,1,35.34
+104,Outdoor Protection,First Aid,Compact Relief Kit,4894437163310260000,1,24.02
+105,Outdoor Protection,First Aid,Deluxe Family Relief Kit,4044372053240070000,2,42.24
+106,Outdoor Protection,First Aid,Calamine Relief,4044372023134080000,2,22.03
+107,Outdoor Protection,First Aid,Aloe Relief,4027535212979050000,2,40.46
+108,Outdoor Protection,First Aid,Insect Bite Relief,4039932160332050000,5,44.44
+109,Golf Equipment,Irons,Hailstorm Steel Irons,4027535262979050000,3,24.11
+110,Golf Equipment,Irons,Hailstorm Titanium Irons,4039932170332050000,4,19.78
+111,Golf Equipment,Irons,Lady Hailstorm Steel Irons,4027535222979050000,5,43.84
+112,Golf Equipment,Irons,Lady Hailstorm Titanium Irons,4039932170332050000,5,29.54
+113,Golf Equipment,Woods,Hailstorm Titanium Woods Set,4027535272979050000,1,27.68
+114,Golf Equipment,Woods,Hailstorm Steel Woods Set,4054202582145050000,4,27.27
+115,Golf Equipment,Woods,Lady Hailstorm Titanium Woods Set,4054202542329050000,5,39.3
+116,Golf Equipment,Woods,Lady Hailstorm Steel Woods Set,8718622696347050000,1,14.17
+117,Golf Equipment,Putters,Course Pro Putter,8718622611427050000,3,36.15
+118,Golf Equipment,Putters,Blue Steel Putter,9005977111278050000,3,14.21
+119,Golf Equipment,Putters,Blue Steel Max Putter,9005977181278050000,1,28.76
+120,Golf Equipment,Golf Accessories,Course Pro Golf and Tee Set,9005977191278050000,1,28.06
+121,Golf Equipment,Golf Accessories,Course Pro Umbrella,9005977141278050000,4,42.15
+122,Golf Equipment,Golf Accessories,Course Pro Golf Bag,9005977111278050000,2,29.68
+123,Golf Equipment,Golf Accessories,Course Pro Gloves,9005977141278050000,2,12.57
+124,Mountaineering Equipment,Rope,Husky Rope 50,9005977111278050000,5,32.4
+125,Mountaineering Equipment,Rope,Husky Rope 60,9005977181278050000,3,32.76
+126,Mountaineering Equipment,Rope,Husky Rope 100,9005977111278050000,1,35.54
+127,Mountaineering Equipment,Rope,Husky Rope 200,9005977131278050000,4,21.74
+128,Mountaineering Equipment,Safety,Granite Climbing Helmet,9005977151278050000,1,26.39
+129,Mountaineering Equipment,Safety,Husky Harness,9005977151278050000,1,10.08
+130,Mountaineering Equipment,Safety,Husky Harness Extreme,9005977181278050000,3,18.5
+131,Mountaineering Equipment,Safety,Granite Signal Mirror,9005977171278050000,1,27.18
+132,Mountaineering Equipment,Climbing Accessories,Granite Carabiner,9005977111278050000,4,30.4
+133,Mountaineering Equipment,Climbing Accessories,Granite Belay,9005977151278050000,1,24.68
+134,Mountaineering Equipment,Climbing Accessories,Granite Pulley,9005977151278050000,2,28.93
+135,Mountaineering Equipment,Climbing Accessories,Firefly Climbing Lamp,9005977171278050000,4,31.26
+136,Mountaineering Equipment,Climbing Accessories,Firefly Charger,9005977151278050000,5,18.49
+137,Mountaineering Equipment,Climbing Accessories,Firefly Rechargeable Battery,9005977121278050000,1,27.97
+138,Mountaineering Equipment,Climbing Accessories,Granite Chalk Bag,9005977111278050000,1,34.9
+139,Mountaineering Equipment,Tools,Granite Ice,9005977111278050000,2,32.69
+140,Mountaineering Equipment,Tools,Granite Hammer,9005977111278050000,4,34.05
+141,Mountaineering Equipment,Tools,Granite Shovel,9005977121278050000,4,30.44
+142,Mountaineering Equipment,Tools,Granite Grip,9005977141278050000,3,40.91
+143,Mountaineering Equipment,Tools,Granite Axe,9005977171278050000,2,18.14
+144,Mountaineering Equipment,Tools,Granite Extreme,9005977171278050000,5,28.22
